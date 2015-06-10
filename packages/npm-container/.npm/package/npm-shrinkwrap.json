@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "multer": {
+      "version": "0.1.8",
+      "dependencies": {
+        "busboy": {
+          "version": "0.2.9",
+          "dependencies": {
+            "dicer": {
+              "version": "0.2.3",
+              "dependencies": {
+                "streamsearch": {
+                  "version": "0.1.2"
+                }
+              }
+            },
+            "readable-stream": {
+              "version": "1.1.13",
+              "dependencies": {
+                "core-util-is": {
+                  "version": "1.0.1"
+                },
+                "isarray": {
+                  "version": "0.0.1"
+                },
+                "string_decoder": {
+                  "version": "0.10.31"
+                },
+                "inherits": {
+                  "version": "2.0.1"
+                }
+              }
+            }
+          }
+        },
+        "mkdirp": {
+          "version": "0.3.5"
+        },
+        "qs": {
+          "version": "1.2.2"
+        },
+        "type-is": {
+          "version": "1.5.7",
+          "dependencies": {
+            "media-typer": {
+              "version": "0.3.0"
+            },
+            "mime-types": {
+              "version": "2.0.14",
+              "dependencies": {
+                "mime-db": {
+                  "version": "1.12.0"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
